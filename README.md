@@ -1,6 +1,3 @@
-Here's **one complete `README.md` file** — copy and paste this **entire content** into a single file named `README.md` in your project root:
-
-```markdown
 # 📄 Similarity Checker (NAVTTC Project)
 
 A **Streamlit-based web application** that allows users to upload multiple documents (`.txt`, `.pdf`, `.docx`) and calculate **text similarity** between them using **TF-IDF** and **Cosine Similarity**.
