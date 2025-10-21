@@ -1,0 +1,1 @@
+# similarity-checker-navttc-project
