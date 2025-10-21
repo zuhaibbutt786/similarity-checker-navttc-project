@@ -143,14 +143,3 @@ NAVTTC Data Science Program
 
 ---
 
-**Done!**  
-Just save this as **`README.md`** in your project folder.  
-Your GitHub repo will look **professional and complete**.
-
-Let me know if you want:
-- `app.py` code
-- `requirements.txt`
-- A GitHub Pages demo
-- Docker setup
-
-I'm ready!
